@@ -96,7 +96,6 @@
 		ADAA27C8231BC3E500365194 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				ADAA27B4231BBFAF00365194 /* WeatherViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -104,6 +103,7 @@
 		ADAA27C9231BC3F200365194 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				ADAA27B4231BBFAF00365194 /* WeatherViewController.swift */,
 				ADAA27B6231BBFAF00365194 /* Main.storyboard */,
 			);
 			path = View;
